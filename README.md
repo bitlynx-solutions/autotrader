@@ -1,7 +1,7 @@
 # AutoTrader Web Scraping Used Car Database
 Web Scraping used to create used car database from https://www.autotrader.co.uk/ which is then dynamically visualised using a bokeh server.
 
-Look at my other repo: https://github.com/Ben-C-Harris/AutoTrader-Used-Car-Price-Prediction to see how I've then used it to make **Used Car Predictions using Machine Learning**.
+ **Used Car Predictions using Machine Learning**.
 
 I've created a database of used cars that have been web scraped from https://www.autotrader.co.uk/ which **includes 67,249 different cars**. The web scraper could be run for longer to recieve over 500,000 used cars if required. I've then created a bokeh server application that enables you to dynamically look at the dataset as you can see in the below video: 
 

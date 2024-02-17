@@ -1,0 +1,678 @@
+[
+    {
+    "displayName": "Abarth",
+    "uriValue": "Abarth",
+    "count": "1,001",
+    "isSelected": true
+    },
+    {
+    "displayName": "AC",
+    "uriValue": "AC",
+    "count": "2"
+    },
+    {
+    "displayName": "Aixam",
+    "uriValue": "Aixam",
+    "count": "1"
+    },
+    {
+    "displayName": "Ak",
+    "uriValue": "AK",
+    "count": "8"
+    },
+    {
+    "displayName": "Alfa Romeo",
+    "uriValue": "Alfa Romeo",
+    "count": "1,242"
+    },
+    {
+    "displayName": "Alpine",
+    "uriValue": "Alpine",
+    "count": "160"
+    },
+    {
+    "displayName": "Alvis",
+    "uriValue": "Alvis",
+    "count": "1"
+    },
+    {
+    "displayName": "Ariel",
+    "uriValue": "Ariel",
+    "count": "23"
+    },
+    {
+    "displayName": "Aston Martin",
+    "uriValue": "Aston Martin",
+    "count": "1,001"
+    },
+    {
+    "displayName": "Auburn",
+    "uriValue": "Auburn",
+    "count": "1"
+    },
+    {
+    "displayName": "Audi",
+    "uriValue": "Audi",
+    "count": "34,666"
+    },
+    {
+    "displayName": "Austin",
+    "uriValue": "Austin",
+    "count": "40"
+    },
+    {
+    "displayName": "Bac",
+    "uriValue": "BAC",
+    "count": "2"
+    },
+    {
+    "displayName": "Baci",
+    "uriValue": "Baci",
+    "count": "1"
+    },
+    {
+    "displayName": "Beauford",
+    "uriValue": "Beauford",
+    "count": "5"
+    },
+    {
+    "displayName": "Bentley",
+    "uriValue": "Bentley",
+    "count": "1,258"
+    },
+    {
+    "displayName": "BMW",
+    "uriValue": "BMW",
+    "count": "43,320"
+    },
+    {
+    "displayName": "Bowler",
+    "uriValue": "Bowler",
+    "count": "1"
+    },
+    {
+    "displayName": "Bramwith",
+    "uriValue": "Bramwith",
+    "count": "1"
+    },
+    {
+    "displayName": "Bugatti",
+    "uriValue": "Bugatti",
+    "count": "2"
+    },
+    {
+    "displayName": "Byd",
+    "uriValue": "BYD",
+    "count": "16"
+    },
+    {
+    "displayName": "Cadillac",
+    "uriValue": "Cadillac",
+    "count": "23"
+    },
+    {
+    "displayName": "Caterham",
+    "uriValue": "Caterham",
+    "count": "34"
+    },
+    {
+    "displayName": "Cfmoto",
+    "uriValue": "CFMOTO",
+    "count": "1"
+    },
+    {
+    "displayName": "Chesil",
+    "uriValue": "Chesil",
+    "count": "2"
+    },
+    {
+    "displayName": "Chevrolet",
+    "uriValue": "Chevrolet",
+    "count": "414"
+    },
+    {
+    "displayName": "Chrysler",
+    "uriValue": "Chrysler",
+    "count": "183"
+    },
+    {
+    "displayName": "Citroen",
+    "uriValue": "Citroen",
+    "count": "10,098"
+    },
+    {
+    "displayName": "Corvette",
+    "uriValue": "Corvette",
+    "count": "3"
+    },
+    {
+    "displayName": "Cupra",
+    "uriValue": "CUPRA",
+    "count": "838"
+    },
+    {
+    "displayName": "Custom Vehicle",
+    "uriValue": "Custom Vehicle",
+    "count": "2"
+    },
+    {
+    "displayName": "Dacia",
+    "uriValue": "Dacia",
+    "count": "2,942"
+    },
+    {
+    "displayName": "Daewoo",
+    "uriValue": "Daewoo",
+    "count": "6"
+    },
+    {
+    "displayName": "Daihatsu",
+    "uriValue": "Daihatsu",
+    "count": "72"
+    },
+    {
+    "displayName": "Daimler",
+    "uriValue": "Daimler",
+    "count": "12"
+    },
+    {
+    "displayName": "Dax",
+    "uriValue": "Dax",
+    "count": "5"
+    },
+    {
+    "displayName": "Dodge",
+    "uriValue": "Dodge",
+    "count": "126"
+    },
+    {
+    "displayName": "DS AUTOMOBILES",
+    "uriValue": "DS AUTOMOBILES",
+    "count": "1,127"
+    },
+    {
+    "displayName": "Excalibur",
+    "uriValue": "Excalibur",
+    "count": "1"
+    },
+    {
+    "displayName": "Ferrari",
+    "uriValue": "Ferrari",
+    "count": "940"
+    },
+    {
+    "displayName": "Fiat",
+    "uriValue": "Fiat",
+    "count": "6,908"
+    },
+    {
+    "displayName": "Fisker",
+    "uriValue": "Fisker",
+    "count": "1"
+    },
+    {
+    "displayName": "Ford",
+    "uriValue": "Ford",
+    "count": "41,939"
+    },
+    {
+    "displayName": "Gardner Douglas",
+    "uriValue": "Gardner Douglas",
+    "count": "3"
+    },
+    {
+    "displayName": "Gbs",
+    "uriValue": "GBS",
+    "count": "1"
+    },
+    {
+    "displayName": "Genesis",
+    "uriValue": "Genesis",
+    "count": "35"
+    },
+    {
+    "displayName": "Great Wall",
+    "uriValue": "Great Wall",
+    "count": "8"
+    },
+    {
+    "displayName": "Gwm Ora",
+    "uriValue": "GWM ORA",
+    "count": "44"
+    },
+    {
+    "displayName": "Honda",
+    "uriValue": "Honda",
+    "count": "8,503"
+    },
+    {
+    "displayName": "Hummer",
+    "uriValue": "Hummer",
+    "count": "9"
+    },
+    {
+    "displayName": "Hyundai",
+    "uriValue": "Hyundai",
+    "count": "12,688"
+    },
+    {
+    "displayName": "Ineos",
+    "uriValue": "INEOS",
+    "count": "95"
+    },
+    {
+    "displayName": "Infiniti",
+    "uriValue": "Infiniti",
+    "count": "163"
+    },
+    {
+    "displayName": "Isuzu",
+    "uriValue": "Isuzu",
+    "count": "577"
+    },
+    {
+    "displayName": "Iveco",
+    "uriValue": "Iveco",
+    "count": "2"
+    },
+    {
+    "displayName": "Jaguar",
+    "uriValue": "Jaguar",
+    "count": "7,884"
+    },
+    {
+    "displayName": "Jeep",
+    "uriValue": "Jeep",
+    "count": "1,721"
+    },
+    {
+    "displayName": "Jensen",
+    "uriValue": "Jensen",
+    "count": "3"
+    },
+    {
+    "displayName": "Kia",
+    "uriValue": "Kia",
+    "count": "14,477"
+    },
+    {
+    "displayName": "Koenigsegg",
+    "uriValue": "Koenigsegg",
+    "count": "1"
+    },
+    {
+    "displayName": "KTM",
+    "uriValue": "KTM",
+    "count": "1"
+    },
+    {
+    "displayName": "Lada",
+    "uriValue": "Lada",
+    "count": "1"
+    },
+    {
+    "displayName": "Lagonda",
+    "uriValue": "Lagonda",
+    "count": "1"
+    },
+    {
+    "displayName": "Lamborghini",
+    "uriValue": "Lamborghini",
+    "count": "428"
+    },
+    {
+    "displayName": "Lancia",
+    "uriValue": "Lancia",
+    "count": "11"
+    },
+    {
+    "displayName": "Land Rover",
+    "uriValue": "Land Rover",
+    "count": "22,318"
+    },
+    {
+    "displayName": "LEVC",
+    "uriValue": "LEVC",
+    "count": "12"
+    },
+    {
+    "displayName": "Lexus",
+    "uriValue": "Lexus",
+    "count": "3,941"
+    },
+    {
+    "displayName": "Leyland",
+    "uriValue": "Leyland",
+    "count": "4"
+    },
+    {
+    "displayName": "Lincoln",
+    "uriValue": "Lincoln",
+    "count": "7"
+    },
+    {
+    "displayName": "London Taxis International",
+    "uriValue": "London Taxis International",
+    "count": "3"
+    },
+    {
+    "displayName": "Lotus",
+    "uriValue": "Lotus",
+    "count": "247"
+    },
+    {
+    "displayName": "Mahindra",
+    "uriValue": "Mahindra",
+    "count": "1"
+    },
+    {
+    "displayName": "Marcos",
+    "uriValue": "Marcos",
+    "count": "2"
+    },
+    {
+    "displayName": "Maserati",
+    "uriValue": "Maserati",
+    "count": "659"
+    },
+    {
+    "displayName": "Maxus",
+    "uriValue": "MAXUS",
+    "count": "59"
+    },
+    {
+    "displayName": "Maybach",
+    "uriValue": "Maybach",
+    "count": "9"
+    },
+    {
+    "displayName": "Mazda",
+    "uriValue": "Mazda",
+    "count": "8,060"
+    },
+    {
+    "displayName": "McLaren",
+    "uriValue": "McLaren",
+    "count": "283"
+    },
+    {
+    "displayName": "Mercedes-Benz",
+    "uriValue": "Mercedes-Benz",
+    "count": "34,304"
+    },
+    {
+    "displayName": "Merlin",
+    "uriValue": "Merlin",
+    "count": "1"
+    },
+    {
+    "displayName": "MG",
+    "uriValue": "MG",
+    "count": "4,454"
+    },
+    {
+    "displayName": "Microcar",
+    "uriValue": "Microcar",
+    "count": "1"
+    },
+    {
+    "displayName": "MINI",
+    "uriValue": "MINI",
+    "count": "13,323"
+    },
+    {
+    "displayName": "Mitsubishi",
+    "uriValue": "Mitsubishi",
+    "count": "3,127"
+    },
+    {
+    "displayName": "MK",
+    "uriValue": "MK",
+    "count": "1"
+    },
+    {
+    "displayName": "Moke",
+    "uriValue": "MOKE",
+    "count": "2"
+    },
+    {
+    "displayName": "Morgan",
+    "uriValue": "Morgan",
+    "count": "69"
+    },
+    {
+    "displayName": "Morris",
+    "uriValue": "Morris",
+    "count": "17"
+    },
+    {
+    "displayName": "Nardini",
+    "uriValue": "Nardini",
+    "count": "1"
+    },
+    {
+    "displayName": "NG",
+    "uriValue": "NG",
+    "count": "2"
+    },
+    {
+    "displayName": "Nissan",
+    "uriValue": "Nissan",
+    "count": "19,596"
+    },
+    {
+    "displayName": "Noble",
+    "uriValue": "Noble",
+    "count": "6"
+    },
+    {
+    "displayName": "Oldsmobile",
+    "uriValue": "Oldsmobile",
+    "count": "1"
+    },
+    {
+    "displayName": "Opel",
+    "uriValue": "Opel",
+    "count": "4"
+    },
+    {
+    "displayName": "Pagani",
+    "uriValue": "Pagani",
+    "count": "1"
+    },
+    {
+    "displayName": "Panther",
+    "uriValue": "Panther",
+    "count": "1"
+    },
+    {
+    "displayName": "Perodua",
+    "uriValue": "Perodua",
+    "count": "7"
+    },
+    {
+    "displayName": "Peugeot",
+    "uriValue": "Peugeot",
+    "count": "15,518"
+    },
+    {
+    "displayName": "Pgo",
+    "uriValue": "PGO",
+    "count": "1"
+    },
+    {
+    "displayName": "Piaggio",
+    "uriValue": "Piaggio",
+    "count": "1"
+    },
+    {
+    "displayName": "Pilgrim",
+    "uriValue": "Pilgrim",
+    "count": "1"
+    },
+    {
+    "displayName": "Polaris",
+    "uriValue": "Polaris",
+    "count": "5"
+    },
+    {
+    "displayName": "Polestar",
+    "uriValue": "Polestar",
+    "count": "172"
+    },
+    {
+    "displayName": "Pontiac",
+    "uriValue": "Pontiac",
+    "count": "4"
+    },
+    {
+    "displayName": "Porsche",
+    "uriValue": "Porsche",
+    "count": "7,090"
+    },
+    {
+    "displayName": "Proton",
+    "uriValue": "Proton",
+    "count": "13"
+    },
+    {
+    "displayName": "Radical",
+    "uriValue": "Radical",
+    "count": "1"
+    },
+    {
+    "displayName": "Reliant",
+    "uriValue": "Reliant",
+    "count": "3"
+    },
+    {
+    "displayName": "Renault",
+    "uriValue": "Renault",
+    "count": "10,863"
+    },
+    {
+    "displayName": "Replica",
+    "uriValue": "Replica",
+    "count": "1"
+    },
+    {
+    "displayName": "Robin Hood",
+    "uriValue": "Robin Hood",
+    "count": "4"
+    },
+    {
+    "displayName": "Rolls-Royce",
+    "uriValue": "Rolls-Royce",
+    "count": "408"
+    },
+    {
+    "displayName": "Rover",
+    "uriValue": "Rover",
+    "count": "129"
+    },
+    {
+    "displayName": "Saab",
+    "uriValue": "Saab",
+    "count": "260"
+    },
+    {
+    "displayName": "SEAT",
+    "uriValue": "SEAT",
+    "count": "9,204"
+    },
+    {
+    "displayName": "Skoda",
+    "uriValue": "Skoda",
+    "count": "11,932"
+    },
+    {
+    "displayName": "Smart",
+    "uriValue": "Smart",
+    "count": "915"
+    },
+    {
+    "displayName": "Spyker",
+    "uriValue": "Spyker",
+    "count": "2"
+    },
+    {
+    "displayName": "Ssangyong",
+    "uriValue": "SsangYong",
+    "count": "771"
+    },
+    {
+    "displayName": "Standard",
+    "uriValue": "Standard",
+    "count": "1"
+    },
+    {
+    "displayName": "Subaru",
+    "uriValue": "Subaru",
+    "count": "1,070"
+    },
+    {
+    "displayName": "Sunbeam",
+    "uriValue": "Sunbeam",
+    "count": "1"
+    },
+    {
+    "displayName": "Suzuki",
+    "uriValue": "Suzuki",
+    "count": "5,272"
+    },
+    {
+    "displayName": "Tesla",
+    "uriValue": "Tesla",
+    "count": "1,437"
+    },
+    {
+    "displayName": "Tiger",
+    "uriValue": "Tiger",
+    "count": "1"
+    },
+    {
+    "displayName": "Toyota",
+    "uriValue": "Toyota",
+    "count": "19,038"
+    },
+    {
+    "displayName": "Triumph",
+    "uriValue": "Triumph",
+    "count": "28"
+    },
+    {
+    "displayName": "TVR",
+    "uriValue": "TVR",
+    "count": "63"
+    },
+    {
+    "displayName": "Ultima",
+    "uriValue": "Ultima",
+    "count": "2"
+    },
+    {
+    "displayName": "Vauxhall",
+    "uriValue": "Vauxhall",
+    "count": "29,102"
+    },
+    {
+    "displayName": "Volkswagen",
+    "uriValue": "Volkswagen",
+    "count": "38,175"
+    },
+    {
+    "displayName": "Volvo",
+    "uriValue": "Volvo",
+    "count": "10,100"
+    },
+    {
+    "displayName": "Westfield",
+    "uriValue": "Westfield",
+    "count": "7"
+    },
+    {
+    "displayName": "Yamaha",
+    "uriValue": "Yamaha",
+    "count": "1"
+    }
+    ]

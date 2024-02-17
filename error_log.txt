@@ -1,0 +1,215 @@
+An error occurred: Message: Reached error page: about:neterror?e=connectionFailure&u=https%3A//www.autotrader.co.uk/car-search%3Fpage%3D8%26postcode%3DB1%25201AA%26make%3DVolvo%26fuel-type%3DDiesel%26year-from%3D2018%26year-to%3D2019&c=UTF-8&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20www.autotrader.co.uk.
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:189:5
+UnknownError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:768:5
+checkReadyState@chrome://remote/content/marionette/navigate.sys.mjs:58:24
+onNavigation@chrome://remote/content/marionette/navigate.sys.mjs:324:39
+emit@resource://gre/modules/EventEmitter.sys.mjs:154:20
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteEventsParent.sys.mjs:33:25
+
+https://www.autotrader.co.uk/car-search?page=8&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: Message: Reached error page: about:neterror?e=connectionFailure&u=https%3A//www.autotrader.co.uk/car-search%3Fpage%3D9%26postcode%3DB1%25201AA%26make%3DVolvo%26fuel-type%3DDiesel%26year-from%3D2018%26year-to%3D2019&c=UTF-8&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20www.autotrader.co.uk.
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:189:5
+UnknownError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:768:5
+checkReadyState@chrome://remote/content/marionette/navigate.sys.mjs:58:24
+onNavigation@chrome://remote/content/marionette/navigate.sys.mjs:324:39
+emit@resource://gre/modules/EventEmitter.sys.mjs:154:20
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteEventsParent.sys.mjs:33:25
+
+https://www.autotrader.co.uk/car-search?page=9&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: Message: Reached error page: about:neterror?e=connectionFailure&u=https%3A//www.autotrader.co.uk/car-search%3Fpage%3D10%26postcode%3DB1%25201AA%26make%3DVolvo%26fuel-type%3DDiesel%26year-from%3D2018%26year-to%3D2019&c=UTF-8&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20www.autotrader.co.uk.
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:189:5
+UnknownError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:768:5
+checkReadyState@chrome://remote/content/marionette/navigate.sys.mjs:58:24
+onNavigation@chrome://remote/content/marionette/navigate.sys.mjs:324:39
+emit@resource://gre/modules/EventEmitter.sys.mjs:154:20
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteEventsParent.sys.mjs:33:25
+
+https://www.autotrader.co.uk/car-search?page=10&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=11&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=12&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=13&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=14&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=15&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=16&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=17&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=18&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=19&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=20&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=21&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=22&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=23&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=24&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=25&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=26&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=27&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=28&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=29&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=30&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=31&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=32&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=33&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=34&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=35&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=36&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=37&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=38&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=39&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=40&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=41&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=42&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=43&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=44&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=45&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=46&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=47&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=48&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=49&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=50&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=51&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=52&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=53&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=54&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=55&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=56&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=57&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=58&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=59&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=60&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=61&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=62&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=63&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=64&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=65&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=66&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=67&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=68&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=69&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=70&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=71&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=72&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=73&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=74&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=75&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=76&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=77&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=78&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=79&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=80&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=81&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=82&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=83&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=84&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=85&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=86&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=87&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=88&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=89&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=90&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=91&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=92&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=93&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=94&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=95&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=96&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=97&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=98&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=99&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=100&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
+An error occurred: I/O operation on closed file.
+https://www.autotrader.co.uk/car-search?page=101&postcode=B1 1AA&make=Volvo&fuel-type=Diesel&year-from=2018&year-to=2019
